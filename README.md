@@ -4,7 +4,7 @@ This is a small windows application to toggle a customizable "gaming mode". Basi
 
 ## Screenshot
 
-![UI][https://github.com/zlshames/GamingModeToggler/blob/master/Images/UI.png?raw=true]
+![UI](./Images/UI.png)
 
 ## Notes
 
