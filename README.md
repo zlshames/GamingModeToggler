@@ -18,4 +18,4 @@ The reason I made this application is because I always found myself killing the 
 
 ## Disclaimer
 
-I am not normally a C# developer. If my code style or coding methodology should be different, feel free to let me know and I'll see what I can do to change it.
+I am not normally a C# developer. If my code style or coding methodology should be different, feel free to let me know and I'll see what I can do to change it. Yes, I know the UI isn't the most pleasing thing to look at. I'm no designer. I just wanted it to be functional.
